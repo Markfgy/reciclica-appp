@@ -1,0 +1,7 @@
+{
+  "name": "recilica-appp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
